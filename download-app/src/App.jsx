@@ -1,6 +1,5 @@
 import './App.css'
 import ainosLogo from './assets/ainosLogo2.jpeg';
-//https://drive.google.com/file/d/16M3mm76xj81kPwCuUDXU3CUjzFtaXaot/view?usp=sharing
 function App() {
 
   return (
