@@ -68,8 +68,21 @@
   font-weight: 400;
   color: #013B4F;
   font-size: 15px;
+  display: flex;
+  flex-direction: row;
+  margin-right:10px ;
+  align-items: center;
 }
 .footer-title{
   color: #FDB728;
   font-weight: 600;
+ 
+}
+
+.footer-div a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #FDB728;
+  margin-left: 5px;
+  font-weight: 500;
 }
