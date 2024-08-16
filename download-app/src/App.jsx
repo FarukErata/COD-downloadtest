@@ -14,7 +14,7 @@ function App() {
             <img className='icon' src={ainosLogo}></img>
             <h3 className='content-title'>Ainos Object Detection <span className='span'>V0.2.4</span> </h3>
             <div className='btn-div' >
-              <a href='https://drive.google.com/uc?export=download&id=BW5kqDkP19KUGOIj2U4THSRAZnut6V
+              <a href='https://drive.google.com/uc?export=download&id=1u-BW5kqDkP19KUGOIj2U4THSRAZnut6V
 ' className='download-btn'>Download</a>
             </div>
           </div>
